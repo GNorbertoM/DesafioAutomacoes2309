@@ -30,5 +30,16 @@ Insire qualquer valor e clique em Salvar
 Repita os itens acima para os campos Email e Telefone
 Após ter inserido todos os dados, valide que eles estão sendo apresentados
 
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Para a execução dos scripts é necessario ter as bibliotecas 
+
+selenium 
+pathlib
+
+Para esse desfio foram criados dois documentos HTML que se encontram na pasta DesafioAutomacoes2309/Desfio 25-09/Paginas/ 
 
 DesafioAutomacoes2309
+
+https://github.com/GNorbertoM
